@@ -1,0 +1,5 @@
+{
+  "name": "PriceWise India",
+  "description": "A historical price tracker that analyzes buying trends for products in India using Google Search Grounding to determine the best time to buy.",
+  "requestFramePermissions": []
+}
